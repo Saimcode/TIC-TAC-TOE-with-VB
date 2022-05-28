@@ -1,4 +1,4 @@
-# 🔋Tic Tac Toe Game
+# ❌⭕️ Tic Tac Toe Game
 
 This is a simple Tic Tac Toe game made using Visual Basic .NET. It's a game that displays a 3x3 grid of squares. The player can click on a square to mark it with either an X or an O. The game ends when a player has 3 in a row. The winner will be alerted.
 
